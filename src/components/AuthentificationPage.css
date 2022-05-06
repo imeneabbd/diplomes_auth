@@ -1,0 +1,37 @@
+.App{
+	text-align: center;
+    display: flex; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+	  height: 700px;
+    width: 100%;
+    background-color: #e1e3eb;
+
+}
+input{
+      width: 300px;
+      height: 50px;
+      border-radius: 10px;
+      border: 2px solid black;
+  	  border-width: 1px;
+  	  background-color: #fff;
+  	  position: relative;
+   	  left: 30px;
+  }
+#b2{
+	    width: 130px;
+      height: 50px;
+      border-radius: 10px;
+      color: white;
+      font-size: 20px;
+      border: none;
+      position: relative;
+  	  left: 40px;
+}
+#cert{
+      position: relative;
+      left: 250px; 
+}
+h1{
+	padding-left: 30px;
+}
